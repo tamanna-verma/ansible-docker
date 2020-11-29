@@ -1,4 +1,4 @@
- - hosts: yugal
+ - hosts: all
    tasks:
    -  file:
         state: directory
